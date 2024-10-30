@@ -1,0 +1,1 @@
+dicionario = {"gato":"chat","cachorro":"chien","cava"}
